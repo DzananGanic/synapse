@@ -84,9 +84,6 @@ CONDITIONAL_REQUIREMENTS = {
     "saml2": {
         "pysaml2>=4.5.0": ["saml2"],
     },
-    "url_preview": {
-        "lxml": ["lxml"]
-    },
 }
 
 
